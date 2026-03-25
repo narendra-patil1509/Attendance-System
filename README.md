@@ -1,6 +1,6 @@
-# ONATTENDI - Digital Marketing Attendance Portal
+# ONATTENDI - Mark Attendies Attendance Portal
 
-A fully featured, real-time Employee Attendance Management system tailored for the **ONATTENDI Digital Marketing** ecosystem. It features live QR code scanning, manual entry overrides, bulk employee updates via Excel, and dynamic attendance reports.
+A fully featured, real-time Employee Attendance Management system tailored for the **ONATTENDI Mark Attendies** ecosystem. It features live QR code scanning, manual entry overrides, bulk employee updates via Excel, and dynamic attendance reports.
 
 ## 🚀 Features
 
